@@ -11,7 +11,7 @@ function playGame(number, questionContent, answerA, answerB, answerC, answerD, c
 }
 
 let questions= [
-    new playGame("Question 1: ", "Which is the fourth planet from the Sun in the Solar System?", "Saturns", "Earth", "Mars", "Jupiter", "Mars"),
+    new playGame("Question 1: ", "Which is the fourth planet from the Sun in the Solar System?", "Saturn", "Earth", "Mars", "Jupiter", "Mars"),
     new playGame("Question 2: ", "Which below is not a natural resource?", "Coal", "Electricity", "Water", "Forest", "Electricity"),
     new playGame("Question 3: ", "Which country has the most islands on the world?", "Philippines", "Japan", "Sweden", "Indonesia", "Sweden"),
     new playGame("Question 4: ", "Which year did the Second World War end?", "1942", "1943", "1944", "1945", "1945"),
