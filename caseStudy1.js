@@ -71,7 +71,7 @@ function toStart(){
 }
 
 function toRestart(){
-    alert("Are you SURE to want RESTART?");
+    alert("Are you SURE to want to RESTART?");
     toStart();
 }
 
